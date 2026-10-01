@@ -1,0 +1,5 @@
+{
+  "_comment": "Correcciones a mano. teams: nombre en el Mercado -> pagina de Liquipedia (el script anade aqui los que encuentra). people: nombre en el Mercado -> pagina de Liquipedia, para nombres ambiguos. Pon null para saltar a alguien.",
+  "teams": {},
+  "people": {}
+}

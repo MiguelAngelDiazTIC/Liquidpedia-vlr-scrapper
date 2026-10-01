@@ -1,0 +1,14 @@
+{
+  "name": "vlr-image-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Descarga fotos de jugadores/staff y logos de equipos desde Liquipedia para Mercado Fichajes VLR",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/fetch.mjs",
+    "apply": "node src/apply.mjs"
+  }
+}

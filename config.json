@@ -1,0 +1,9 @@
+{
+  "mercadoPath": "../Mercado-Fichajes-VLR",
+  "apiUrl": "https://liquipedia.net/valorant/api.php",
+  "userAgent": "VLRImageScraper/1.0 (https://github.com/MiguelAngelDiazTIC/Mercado-Fichajes-VLR; contacto: PON-AQUI-TU-EMAIL)",
+  "thumbWidth": 256,
+  "apiDelayMs": 2100,
+  "downloadDelayMs": 1000,
+  "cacheDays": 7
+}
